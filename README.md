@@ -37,7 +37,7 @@
 
  Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-пользователь/ваш-проект.git
+   git clone https://github.com/svartoS/camel-bd.git
 ```
 
 ### 5. Проверка работы
